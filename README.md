@@ -4,4 +4,4 @@
 
 Em desenvolvimento 🚧
 
-> Deploy: https://syso069.github.io/NumeroSecreto/
+> Deploy: https://numero-secreto-alpha-nine.vercel.app/
