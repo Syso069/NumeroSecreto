@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&display=swap');
 
 :root {
     --font-principal: 'Open Sans', sans-serif;
@@ -41,4 +41,14 @@ body {
     font-size: 3em;
     margin: 0.25em;
     padding: 0.25em;
+}
+
+.btn-jogar {
+    padding: 1em;
+    border: 0;    
+    text-transform: uppercase;
+    color: var(--bg-color);
+    background: var(--cor-primaria);
+    border-radius: 5px;
+    margin-top: 1em;
 }
