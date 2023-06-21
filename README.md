@@ -4,4 +4,6 @@
 
 Em desenvolvimento 🚧
 
+Para um melhor funcionamento sem erros é recomendado utilizar o Google Chrome
+
 > Deploy: https://numero-secreto-alpha-nine.vercel.app/
